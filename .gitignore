@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+config/keyphrase_config.json
+logs/
+data/
+*.csv
+*.xlsx
